@@ -1,7 +1,8 @@
 # Wi-Fi QR Code Generator React-Native App
 Using "WIFI:T:WPA;S:${wifiName};P:${wifiPassword};H:false;;" code and autoConnect Wi-Fi.
 
-# QR Code only works on iPhone's.
+# Support
+Network connection with QR Code is exclusive to iPhones only.
 
 
 # Android Preview:
