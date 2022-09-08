@@ -5,10 +5,10 @@ Using "WIFI:T:WPA;S:${wifiName};P:${wifiPassword};H:false;;" code and autoConnec
 Network connection with QR Code is exclusive to iPhones only.
 
 # iOS Preview:
-![Screenshoot](ss_iPhone.png "Screenshoot" =250x250 )
+![Screenshoot](ss_iPhone.png "Screenshoot")
 
 # Android Preview:
-![Screenshoot](ss.png "Screenshoot" =250x250)
+![Screenshoot](ss.png "Screenshoot")
 
 # Contact
 
